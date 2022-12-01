@@ -7,10 +7,11 @@ Desde mediados del 2021 comencé a interesarme en el rol de QA y desde entonces 
 En mi cuenta verás los trabajos que considero soluciones que aportan valor en un proceso de automatización de pruebas ágiles.
 
 Ya finalizado podes encontrar tres proyectos:  
-Un proyecto de pruebas automatizadas UI basado en WebDriverIO, Cucumber (BDD), TypeScript, Allure Report y Node.js.      
+Un proyecto de pruebas automatizadas UI basado en WebDriverIO, Cucumber (BDD), TypeScript, Allure Report y Node.js.
+Un proyecto de pruebas automatizadas UI basado en Playwright, TypeScript y Node.js.
 Dos proyectos de pruebas automatizadas de APIs con Karate DSL.
 
-Actualmente me encuentro desarrollando un proyecto de pruebas automatizadas UI basado en Playwright, TypeScript y Node.js.
+Actualmente me encuentro desarrollando un proyecto de pruebas automatizadas UI basado en Selenium WebDriver y Java.
 
 ## Contacto
 
