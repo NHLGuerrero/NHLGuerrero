@@ -11,7 +11,7 @@ Ya finalizado podes encontrar cuatro proyectos:
 - Un proyecto de pruebas automatizadas UI basado en Playwright, TypeScript y Node.js.
 - Dos proyectos de pruebas automatizadas de APIs con Karate DSL.
 
-Actualmente me encuentro desarrollando un proyecto de pruebas automatizadas UI basado en Selenium WebDriver y Java.
+Actualmente me encuentro desarrollando un proyecto de pruebas automatizadas UI basado en Selenium con Java y Cucumber.
 
 ## Contacto
 
