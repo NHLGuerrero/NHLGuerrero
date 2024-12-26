@@ -2,7 +2,7 @@
 
 Mi nombre es Nahuel, vivo en Argentina y soy QA Automation.
 
-Desde mediados del 2021 comencé a interesarme en el rol de QA y desde entonces estoy aprendiendo lo necesario para desarrollarme como profesional. Lo que aprendí de forma autodidacta y mi participación en el Programa de Entrenamiento Intensivo (PEI) de [Baufest](https://baufest.com/nosotros/) me dieron las bases y la confianza para desarrollar este portafolio y así mostrar mis conocimientos.
+Desde febrero de 2023 me desempeño laboralmente como QA Tester con un enfoque en la automatización de pruebas. Durante este tiempo, he adquirido experiencia en la creación y mantenimiento de pruebas automatizadas, colaborando con equipos ágiles para garantizar la calidad continua de los productos.
 
 En mi cuenta verás los trabajos que considero soluciones que aportan valor en un proceso de automatización de pruebas ágiles.
 
@@ -10,8 +10,7 @@ Ya finalizado podes encontrar cuatro proyectos:
 - Un proyecto de pruebas automatizadas UI basado en WebDriverIO, Cucumber (BDD), TypeScript, Allure Report y Node.js.
 - Un proyecto de pruebas automatizadas UI basado en Playwright, TypeScript y Node.js.
 - Dos proyectos de pruebas automatizadas de APIs con Karate DSL.
-
-Actualmente me encuentro desarrollando un proyecto de pruebas automatizadas UI basado en Selenium con Java y Cucumber.
+- Un prouecto de pruebas automatizadas de APIs con Cypress, Mocha y Node.js.
 
 ## Contacto
 
